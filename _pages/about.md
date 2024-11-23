@@ -39,7 +39,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 ## Peer Reviewed Journal Publications
 - **C. Xu**, T. Zhang, S. A. Abbasi, P. Liu, B. P. Yan, S.H.C. Ng, W. Yuan*, [Ultrathin visible-light OCT endomicroscopy for in vivo ultrahigh-resolution neuroimaging in deep brain](https://doi.org/10.1038/s44172-023-00157-1). APL Photonics 9, 110804 (2024).  
-- 
+
 - **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren*, W. Yuan*, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
 
 - S. Yuan+, **C. Xu+**, B. Cui+, T. Zhang, B. Liang, W. Yuan*, H. Ren*, [Motor-free telerobotic endomicroscopy with steerable and programmable imaging in complex curved and localized areas](https://doi.org/10.1038/s41467-024-51633-x). Nature Communications 15, 1–16 (2024). (+: equal contribution).
@@ -62,10 +62,10 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 # 🎖 Honors and Awards
 
 
-# 📖 Educations
+# 📖 Education
 - *2021.01 - 2024.10*, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
 - *2017.09 - 2020.07*, Master of Science, Daheng College, University of Chinese Academy of Sciences,Changchun, China.
-- *2013.09-2017.07*, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
+- *2013.09 - 2017.07*, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
 
 # 💬 Invited Talks
 
