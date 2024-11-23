@@ -31,7 +31,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 - *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life!   
 - *2024.09*: &nbsp;🎉🎉 One paper about wearable OCT neuroendoscopy is accepted by Advanced Intelligent Systems. 
 - *2024.09*: &nbsp;🎉🎉 One paper about magnetic force-driven OCT endoscope is accepted by Nature Communications.  
-- *2024.07*: &nbsp;🎉🎉 I pass my Ph.D. defense at The Chinese University of Hong Kong!  
+- *2024.07*: &nbsp;🎉🎉 I pass my Ph.D. thesis defense at The Chinese University of Hong Kong!  
 - *2024.01*: &nbsp;🎉🎉 One paper about liquid shaping technique to fabricate miniature high-resolution OCT endoscope is accepted by Communications Engineering.
 - *2023.08*: &nbsp;🎉🎉 One paper about digitally compensating dispersion of OCT system is accepted by Photonics.
 
