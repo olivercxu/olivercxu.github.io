@@ -17,15 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my page! I am XU Chao Oliver. Currently, I work at Department of Biomedical Engineering, The Chinese University of Hong Kong, as a research assistant, affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html) led by Prof. YUAN Wu Scott.    
+Welcome to my page! I am Chao (Oliver) Xu. Currently, I work at Department of Biomedical Engineering, The Chinese University of Hong Kong, as a research assistant, affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
 
+During my postgraduate period, I mainly focused on minimally invasive high-resolution endoscopic [optical coherence tomography](https://en.wikipedia.org/wiki/Optical_coherence_tomography) (OCT) and its preclinical applications. Currently, I am working on the high-resolution intravascular OCT for clinical use. I am also developing some advanced fabrication technology for high-performance OCT endoscopy. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from College of Optical Science and Engineering, Zhejiang University with a bachelor’s degree and from Daheng college, University of Chinese Academy of Sciences with a Master's degree. I further obtained my doctor's degree from Department of Biomedical Engineering, The Chinese Univeristy of Hong Kong, advised by Prof. [Wu (Scott) Yuan (袁武)](https://www.bme.cuhk.edu.hk/yuan/people.html).
+
+My research interest includes high-resolution OCT, optical endomicroscopy, and preclinical /clinical applications related with OCT. I have published 17 papers at the top international journals such as Nature Communications, APL Photonics, and Communications Engineering. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 One paper about first submillimeter visible-light OCT neuroendoscopy is accepted by APL Photonics. 
+- *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life!   
+- *2024.09*: &nbsp;🎉🎉 One paper about wearable OCT neuroendoscopy is accepted by Advanced Intelligent Systems. 
+- *2024.09*: &nbsp;🎉🎉 One paper about magnetic force-driven OCT endoscope is accepted by Nature Communications.  
+- *2024.07*: &nbsp;🎉🎉 I pass my Ph.D. defense at the Chinese University of Hong Kong!  
+- *2024.01*: &nbsp;🎉🎉 One paper about liquid shaping technique to fabricate miniature high-resolution OCT endoscope is accepted by Communications Engineering.
+- *2023.08*: &nbsp;🎉🎉 One paper about digitally compensating dispersion of OCT system is accepted by Photonics.
 
 # 📝 Publications 
 
