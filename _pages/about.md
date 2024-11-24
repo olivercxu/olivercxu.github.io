@@ -62,7 +62,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 # 🎖 Honors and Awards
 
 
-# 📖 Education
+# 📖 Educations
 - *2021.01 - 2024.10*, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
 - *2017.09 - 2020.07*, Master of Science, Daheng College, University of Chinese Academy of Sciences,Changchun, China.
 - *2013.09 - 2017.07*, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
