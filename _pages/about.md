@@ -61,7 +61,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 # 🎖 Honors and Awards
 - Outstanding Graduate of the University of Chinese Academy of Sciences, 2020
-New Industry Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2020
+- New Industry Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2020
 - National Scholarship, 2019
 - Merit Student Award, University of Chinese Academy of Sciences, 2019
 - Merit Student Award, University of Chinese Academy of Sciences, 2018
