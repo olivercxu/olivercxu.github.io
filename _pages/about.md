@@ -55,7 +55,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 - **C. Xu**, Z. Fang, T. Zhang, H. Gao, T. Zhang, P. Liu, H. Ren, W. Yuan, “[Submillimeter robotic OCT neuroendoscope for deep-brain imaging in vivo](https://doi.org/10.1117/12.3000678)” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XXII (2024) vol. 12831, pp. 5–8. 
 
-- J. Yan, P. Chen, J. Chen, J. Xue, **C. Xu**, Y. Qiu, H. Fang, Y. Lu, G. K. C. Wong, Y.-H. Liu, W. Yuan, S. S. Cheng, “[Design and Evaluation of a Flexible Sensorized Robotic OCT Neuroendoscope](https://doi.org/10.1109/ISMR57123.2023.10130184)” in 2023 International Symposium on Medical Robotics (ISMR) (2023) pp. 1–7.
+- J. Yan, P. Chen, J. Chen, J. Xue, **C. Xu**, Y. Qiu, H. Fang, Y. Lu, G. K. C. Wong, Y.-H. Liu, W. Yuan, S. S. Cheng, “[Design and evaluation of a flexible sensorized robotic OCT neuroendoscope](https://doi.org/10.1109/ISMR57123.2023.10130184)” in 2023 International Symposium on Medical Robotics (ISMR) (2023) pp. 1–7.
 
 - J. Wang, **C. Xu**, S. Zhu, W. Yuan, “[An optimization method for ultrahigh-resolution vis-OCT imaging](https://doi.org/10.1109/TENCON55691.2022.9977683)” in TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON) (2022), pp. 1–3.
 
@@ -64,7 +64,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 # 📖 Educations
 - *2021.01 - 2024.10*, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
-- *2017.09 - 2020.07*, Master of Science, Daheng College, University of Chinese Academy of Sciences,Changchun, China.
+- *2017.09 - 2020.07*, Master of Science, Daheng College, University of Chinese Academy of Sciences,Beijing, China.
 - *2013.09 - 2017.07*, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
 
 # 💬 Invited Talks
