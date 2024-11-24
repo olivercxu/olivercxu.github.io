@@ -40,11 +40,11 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 ## Peer Reviewed Journal Publications
 - **C. Xu**, T. Zhang, S. A. Abbasi, P. Liu, B. P. Yan, S.H.C. Ng, W. Yuan, [Ultrathin visible-light OCT endomicroscopy for in vivo ultrahigh-resolution neuroimaging in deep brain](https://doi.org/10.1038/s44172-023-00157-1). APL Photonics 9, 110804 (2024).  
 
-- **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren*, W. Yuan, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
+- **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren, W. Yuan, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
 
-- S. Yuan+, **C. Xu+**, B. Cui+, T. Zhang, B. Liang, W. Yuan*, H. Ren, [Motor-free telerobotic endomicroscopy with steerable and programmable imaging in complex curved and localized areas](https://doi.org/10.1038/s41467-024-51633-x). Nature Communications 15, 1–16 (2024). (+: equal contribution).
+- S. Yuan+, **C. Xu+**, B. Cui+, T. Zhang, B. Liang, W. Yuan, H. Ren, [Motor-free telerobotic endomicroscopy with steerable and programmable imaging in complex curved and localized areas](https://doi.org/10.1038/s41467-024-51633-x). Nature Communications 15, 1–16 (2024). (+: equal contribution).
 
-- T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. C. Chang, S. H. C. Ng, H. Ren*, W. Yuan, [PneumaOCT: pneumatic optical coherence tomography endoscopy for targeted distortion-free imaging in tortuous and narrow internal lumens](https://doi.org/10.1126/sciadv.adp3145). Science Advances 10, eadp3145 (2024). 
+- T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. C. Chang, S. H. C. Ng, H. Ren, W. Yuan, [PneumaOCT: pneumatic optical coherence tomography endoscopy for targeted distortion-free imaging in tortuous and narrow internal lumens](https://doi.org/10.1126/sciadv.adp3145). Science Advances 10, eadp3145 (2024). 
 
 - **C. Xu**, X. Guan, S. A. Abbasi, N. Xia, T. Ngai, L. Zhang, H.-P. Ho, S. H. C. Ng, W. Yuan, [Liquid-shaped microlens for scalable production of ultrahigh- resolution optical coherence tomography microendoscope](https://doi.org/10.1038/s44172-023-00157-1). Communications Engineering 3, 1 (2024).
 
