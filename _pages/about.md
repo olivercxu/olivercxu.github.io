@@ -60,7 +60,12 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 - J. Wang, **C. Xu**, S. Zhu, W. Yuan, “[An optimization method for ultrahigh-resolution vis-OCT imaging](https://doi.org/10.1109/TENCON55691.2022.9977683)” in TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON) (2022), pp. 1–3.
 
 # 🎖 Honors and Awards
-
+- Outstanding Graduate of the University of Chinese Academy of Sciences, 2020
+New Industry Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2020
+- National Scholarship, 2019
+- Merit Student Award, University of Chinese Academy of Sciences, 2019
+- Merit Student Award, University of Chinese Academy of Sciences, 2018
+- Freshman Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2017
 
 # 📖 Educations
 - *2021.01 - 2024.10*, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
