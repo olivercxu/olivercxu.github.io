@@ -38,26 +38,44 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 # 📝 Publications 
 
 ## Peer Reviewed Journal Publications
-- **C. Xu**, T. Zhang, S. A. Abbasi, P. Liu, B. P. Yan, S.H.C. Ng, W. Yuan, [Ultrathin visible-light OCT endomicroscopy for in vivo ultrahigh-resolution neuroimaging in deep brain](https://doi.org/10.1038/s44172-023-00157-1). APL Photonics 9, 110804 (2024).  
+1. **C. Xu**, T. Zhang, S. A. Abbasi, P. Liu, B. P. Yan, S.H.C. Ng, W. Yuan, [Ultrathin visible-light OCT endomicroscopy for in vivo ultrahigh-resolution neuroimaging in deep brain](https://doi.org/10.1038/s44172-023-00157-1). APL Photonics 9, 110804 (2024).  
 
-- **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren, W. Yuan, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
+1. **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren, W. Yuan, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
 
-- S. Yuan+, **C. Xu+**, B. Cui+, T. Zhang, B. Liang, W. Yuan, H. Ren, [Motor-free telerobotic endomicroscopy with steerable and programmable imaging in complex curved and localized areas](https://doi.org/10.1038/s41467-024-51633-x). Nature Communications 15, 1–16 (2024). (+: equal contribution).
+1. S. Yuan+, **C. Xu+**, B. Cui+, T. Zhang, B. Liang, W. Yuan, H. Ren, [Motor-free telerobotic endomicroscopy with steerable and programmable imaging in complex curved and localized areas](https://doi.org/10.1038/s41467-024-51633-x). Nature Communications 15, 1–16 (2024). (+: equal contribution).
 
-- T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. C. Chang, S. H. C. Ng, H. Ren, W. Yuan, [PneumaOCT: pneumatic optical coherence tomography endoscopy for targeted distortion-free imaging in tortuous and narrow internal lumens](https://doi.org/10.1126/sciadv.adp3145). Science Advances 10, eadp3145 (2024). 
+1. T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. C. Chang, S. H. C. Ng, H. Ren, W. Yuan, [PneumaOCT: pneumatic optical coherence tomography endoscopy for targeted distortion-free imaging in tortuous and narrow internal lumens](https://doi.org/10.1126/sciadv.adp3145). Science Advances 10, eadp3145 (2024). 
 
-- **C. Xu**, X. Guan, S. A. Abbasi, N. Xia, T. Ngai, L. Zhang, H.-P. Ho, S. H. C. Ng, W. Yuan, [Liquid-shaped microlens for scalable production of ultrahigh- resolution optical coherence tomography microendoscope](https://doi.org/10.1038/s44172-023-00157-1). Communications Engineering 3, 1 (2024).
+1. **C. Xu**, X. Guan, S. A. Abbasi, N. Xia, T. Ngai, L. Zhang, H.-P. Ho, S. H. C. Ng, W. Yuan, [Liquid-shaped microlens for scalable production of ultrahigh- resolution optical coherence tomography microendoscope](https://doi.org/10.1038/s44172-023-00157-1). Communications Engineering 3, 1 (2024).
 
-- J. Wang+, **C. Xu+**, S. Zhu, D. Chen, H. Qiu, A. K. N. Lam, C. K. S. Leung, W. Yuan, [A Generic and effective system dispersion compensation method: development and validation in visible-light OCT](https://doi.org/10.3390/photonics10080892). Photonics 10, 892 (2023). (+: equal contribution)
+1. J. Wang+, **C. Xu+**, S. Zhu, D. Chen, H. Qiu, A. K. N. Lam, C. K. S. Leung, W. Yuan, [A Generic and effective system dispersion compensation method: development and validation in visible-light OCT](https://doi.org/10.3390/photonics10080892). Photonics 10, 892 (2023). (+: equal contribution)
 
 ## Conference Papers
-- **C. Xu**, T. Zhang, P. Liu, W. Yuan, “[Miniature ultrahigh-resolution visible-light OCT endoscopy](https://doi.org/10.1117/12.3000677)” in Endoscopic Microscopy XIX, M. J. Suter, G. J. Tearney, T. D. Wang, Eds. (2024) vol. 12820, p. 27.
+1. **C. Xu**, T. Zhang, P. Liu, W. Yuan, “[Miniature ultrahigh-resolution visible-light OCT endoscopy](https://doi.org/10.1117/12.3000677)” in Endoscopic Microscopy XIX, M. J. Suter, G. J. Tearney, T. D. Wang, Eds. (2024) vol. 12820, p. 27.
 
-- **C. Xu**, Z. Fang, T. Zhang, H. Gao, T. Zhang, P. Liu, H. Ren, W. Yuan, “[Submillimeter robotic OCT neuroendoscope for deep-brain imaging in vivo](https://doi.org/10.1117/12.3000678)” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XXII (2024) vol. 12831, pp. 5–8. 
+1. **C. Xu**, Z. Fang, T. Zhang, H. Gao, T. Zhang, P. Liu, H. Ren, W. Yuan, “[Submillimeter robotic OCT neuroendoscope for deep-brain imaging in vivo](https://doi.org/10.1117/12.3000678)” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XXII (2024) vol. 12831, pp. 5–8. 
 
-- J. Yan, P. Chen, J. Chen, J. Xue, **C. Xu**, Y. Qiu, H. Fang, Y. Lu, G. K. C. Wong, Y.-H. Liu, W. Yuan, S. S. Cheng, “[Design and evaluation of a flexible sensorized robotic OCT neuroendoscope](https://doi.org/10.1109/ISMR57123.2023.10130184)” in 2023 International Symposium on Medical Robotics (ISMR) (2023) pp. 1–7.
+1. J. Yan, P. Chen, J. Chen, J. Xue, **C. Xu**, Y. Qiu, H. Fang, Y. Lu, G. K. C. Wong, Y.-H. Liu, W. Yuan, S. S. Cheng, “[Design and evaluation of a flexible sensorized robotic OCT neuroendoscope](https://doi.org/10.1109/ISMR57123.2023.10130184)” in 2023 International Symposium on Medical Robotics (ISMR) (2023) pp. 1–7.
 
-- J. Wang, **C. Xu**, S. Zhu, W. Yuan, “[An optimization method for ultrahigh-resolution vis-OCT imaging](https://doi.org/10.1109/TENCON55691.2022.9977683)” in TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON) (2022), pp. 1–3.
+1. J. Wang, **C. Xu**, S. Zhu, W. Yuan, “[An optimization method for ultrahigh-resolution vis-OCT imaging](https://doi.org/10.1109/TENCON55691.2022.9977683)” in TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON) (2022), pp. 1–3.
+
+## Patents
+1. Systems and methods for scalable fabrication of high-performance optical coherence tomography endoscopes using liquid shaping technique. US patent. No. 18/775,087. Second-inventor (supervisor as first inventor).
+
+2. 可扩展地制造高性能光学相干断层扫描内窥镜系统和方法. CN202410901042.6. 第二发明人(导师为第一发明人).
+
+3. 一种高频颤振扰动光学TDI相机成像的模拟系统. CN109632261B. 第二发明人(导师为第一发明人).
+
+4. 卫星对动态飞行目标多视角成像联合计算航行高度的方法. CN201910761722.1. 第三发明人.
+
+5. 空间脉管包络分布式三维目标的卫星成像路径规划方法. CN109738928A. 第四发明人.
+
+6. 双线阵TDI空间相机对动态飞机运动特性的分析方法. CN108961319A. 第四发明人.
+
+7. TDI CCD相机摆扫成像影像几何畸变还原的反变换方法. CN108898565A. 第五发明人.
+
+8. 基于改进BM3D算法的图像去噪方法及系统. CN110060220A. 第六发明人.
+
 
 # 🎖 Honors and Awards
 - Outstanding Graduate of the University of Chinese Academy of Sciences, 2020
