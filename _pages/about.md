@@ -78,6 +78,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 
 # 🎖 Honors and Awards
+- Hong Kong Medical and Healthcare Device Industries Association Student Research Award, 2024 
 - Outstanding Graduate of the University of Chinese Academy of Sciences, 2020
 - New Industry Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2020
 - National Scholarship, 2019
