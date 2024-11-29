@@ -91,9 +91,9 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 - Freshman Scholarship, Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, 2017
 
 # 📖 Educations
-- <img height="15" src="/images/cuhk_logo.png" width="15" style="vertical-align: middle;"/> 2021.01 - 2024.10, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
-- <img height="15" src="/images/UCAS_logo.png" width="15" style="vertical-align: middle;"/> 2017.09 - 2020.07, Master of Science, Daheng College, University of Chinese Academy of Sciences,Beijing, China.
-- <img height="15" src="/images/zju_logo.png" width="15" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
+- <img height="25" src="/images/cuhk_logo.png" width="25" style="vertical-align: middle;"/> 2021.01 - 2024.10, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
+- <img height="25" src="/images/UCAS_logo.png" width="25" style="vertical-align: middle;"/> 2017.09 - 2020.07, Master of Science, Daheng College, University of Chinese Academy of Sciences,Beijing, China.
+- <img height="25" src="/images/zju_logo.png" width="25" style="vertical-align: middle;"/> 2013.09 - 2017.07, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
 
 
 # 💬 Invited Talks
