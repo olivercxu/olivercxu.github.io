@@ -51,6 +51,10 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 1. J. Wang+, **C. Xu+**, S. Zhu, D. Chen, H. Qiu, A. K. N. Lam, C. K. S. Leung, W. Yuan, [A Generic and effective system dispersion compensation method: development and validation in visible-light OCT](https://doi.org/10.3390/photonics10080892). Photonics 10, 892 (2023). (+: equal contribution)
 
 ## Conference Papers
+1. **C. Xu**, Z. Hong, R. Liang, W. Yuan, “[3D printed freeform silica microlens for ultrathin high-performance OCT endoscopy](https://opg.optica.org/abstract.cfm?uri=FiO-2024-FM4D.3)” in Frontiers in Optics + Laser Science 2024 (FiO, LS) (2024), Paper FM4D.3 (Optica Publishing Group, 2024), p. FM4D.3.
+ 
+1. **C. Xu**, T. Zhang, P. Liu, W. Yuan, “[Aberration-corrected high-resolution OCT microprobe using liquid-shaped freeform microlens](https://opg.optica.org/abstract.cfm?uri=FiO-2024-FM3D.6)” in Frontiers in Optics + Laser Science 2024 (FiO, LS) (2024), Paper FM3D.6 (Optica Publishing Group, 2024), p. FM3D.6.
+
 1. **C. Xu**, T. Zhang, P. Liu, W. Yuan, “[Miniature ultrahigh-resolution visible-light OCT endoscopy](https://doi.org/10.1117/12.3000677)” in Endoscopic Microscopy XIX, M. J. Suter, G. J. Tearney, T. D. Wang, Eds. (2024) vol. 12820, p. 27.
 
 1. **C. Xu**, Z. Fang, T. Zhang, H. Gao, T. Zhang, P. Liu, H. Ren, W. Yuan, “[Submillimeter robotic OCT neuroendoscope for deep-brain imaging in vivo](https://doi.org/10.1117/12.3000678)” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XXII (2024) vol. 12831, pp. 5–8. 
@@ -89,7 +93,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 # 📖 Educations
 - *2021.01 - 2024.10*, Doctor of Philosophy, Department of Biomedical Engineering, The Chinese University of Hong Kong, Hong Kong, China
 - *2017.09 - 2020.07*, Master of Science, Daheng College, University of Chinese Academy of Sciences,Beijing, China.
-- *2013.09 - 2017.07*, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
+- <img height="15" src="/images/zju_logo.png" width="15"/>*2013.09 - 2017.07*, Bachelor of Engineering, College of Optical Science and Engineering, Zhejiang University, Hangzhou, China.
 
 # 💬 Invited Talks
 
