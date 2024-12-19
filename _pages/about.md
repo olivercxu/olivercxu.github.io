@@ -51,6 +51,8 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 1. J. Wang+, **C. Xu+**, S. Zhu, D. Chen, H. Qiu, A. K. N. Lam, C. K. S. Leung, W. Yuan, [A Generic and effective system dispersion compensation method: development and validation in visible-light OCT](https://doi.org/10.3390/photonics10080892). Photonics 10, 892 (2023). (+: equal contribution)
 
 ## Conference Papers
+1. **C. Xu**, T. Zhang, R. Zhang, W. Yuan, "[In Vivo Ultrahigh-Resolution Quantitative OCT Imaging in Lungs](https://ieeexplore.ieee.org/abstract/document/10773767)," 2024 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), Danang, Vietnam, 2024, pp. 1-4.
+
 1. **C. Xu**, Z. Hong, R. Liang, W. Yuan, “[3D printed freeform silica microlens for ultrathin high-performance OCT endoscopy](https://opg.optica.org/abstract.cfm?uri=FiO-2024-FM4D.3)” in Frontiers in Optics + Laser Science 2024 (FiO, LS) (2024), Paper FM4D.3 (Optica Publishing Group, 2024), p. FM4D.3.
  
 1. **C. Xu**, T. Zhang, P. Liu, W. Yuan, “[Aberration-corrected high-resolution OCT microprobe using liquid-shaped freeform microlens](https://opg.optica.org/abstract.cfm?uri=FiO-2024-FM3D.6)” in Frontiers in Optics + Laser Science 2024 (FiO, LS) (2024), Paper FM3D.6 (Optica Publishing Group, 2024), p. FM3D.6.
