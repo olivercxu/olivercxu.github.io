@@ -51,11 +51,11 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 1. J. Wang+, **C. Xu+**, S. Zhu, D. Chen, H. Qiu, A. K. N. Lam, C. K. S. Leung, W. Yuan, [A Generic and effective system dispersion compensation method: development and validation in visible-light OCT](https://doi.org/10.3390/photonics10080892). Photonics 10, 892 (2023). (+: equal contribution)
 
 ## Conference Papers
-1.  Z. Fang, **C. Xu**, H. Gao, D. T.-M. Chan, W. Yuan, H. Ren, “[Head-Mounted Hydraulic Needle Driver for Targeted Interventions in Neurosurgery](https://ieeexplore.ieee.org/document/10801339/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 2429–2435.
+1.  Z. Fang, **C. Xu**, H. Gao, D. T.-M. Chan, W. Yuan, H. Ren, “[Head-mounted hydraulic needle driver for targeted interventions in neurosurgery](https://ieeexplore.ieee.org/document/10801339/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 2429–2435.
 
-1. T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. Ren, W. Yuan, “[Towards Electricity-free Pneumatic Miniature Rotation Actuator for Optical Coherence Tomography Endoscopy](https://ieeexplore.ieee.org/document/10802388/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 1316–1321.
+1. T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. Ren, W. Yuan, “[Towards electricity-free pneumatic miniature rotation actuator for optical coherence tomography endoscopy](https://ieeexplore.ieee.org/document/10802388/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 1316–1321.
 
-1. **C. Xu**, T. Zhang, R. Zhang, W. Yuan, "[In Vivo Ultrahigh-Resolution Quantitative OCT Imaging in Lungs](https://ieeexplore.ieee.org/abstract/document/10773767)," 2024 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), Danang, Vietnam, 2024, pp. 1-4.
+1. **C. Xu**, T. Zhang, R. Zhang, W. Yuan, "[In vivo ultrahigh-resolution quantitative OCT imaging in lungs](https://ieeexplore.ieee.org/abstract/document/10773767)," 2024 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia), Danang, Vietnam, 2024, pp. 1-4.
 
 1.  T. Zhang, **C. Xu**, S. Yuan, P. Liu, H. Ren, W. Yuan, “[Pneumatic optical coherence tomography for robotic imaging in tortuous and large luminal organs](https://opg.optica.org/abstract.cfm?uri=FiO-2024-FM3D.4)” in Frontiers in Optics + Laser Science 2024 (FiO, LS) (2024), Paper FM3D.4 (Optica Publishing Group, 2024), p. FM3D.4.
 
