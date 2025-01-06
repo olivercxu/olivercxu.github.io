@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my page! I am Chao (Oliver) Xu. Currently, I work at Department of Biomedical Engineering, The Chinese University of Hong Kong, as a research assistant, affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
+Welcome to my page! I am Chao (Oliver) Xu. Currently, I work at Department of Biomedical Engineering, The Chinese University of Hong Kong, as a postdoctoral fellow, affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
 
 During my postgraduate period, I mainly focused on minimally invasive high-resolution endoscopic [optical coherence tomography](https://en.wikipedia.org/wiki/Optical_coherence_tomography) (OCT) and its preclinical applications. Currently, I am working on the high-resolution intravascular OCT for clinical use. I am also developing some advanced fabrication technology for high-performance OCT endoscopy. 
 
@@ -27,8 +27,9 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 
 # 🔥 News
+- *2024.12*: Dr. Xu is a postdoctoral fellow now affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html). 
 - *2024.11*: &nbsp;🎉🎉 One paper about first submillimeter visible-light OCT neuroendoscopy is accepted by APL Photonics. 
-- *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life!   
+- *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life! He is a research assistant affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
 - *2024.09*: &nbsp;🎉🎉 One paper about wearable OCT neuroendoscopy is accepted by Advanced Intelligent Systems. 
 - *2024.09*: &nbsp;🎉🎉 One paper about magnetic force-driven OCT endoscope is accepted by Nature Communications.  
 - *2024.07*: &nbsp;🎉🎉 I pass my Ph.D. thesis defense at The Chinese University of Hong Kong!  
