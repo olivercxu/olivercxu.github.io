@@ -27,6 +27,7 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 
 # 🔥 News
+- *2025.01*: A startup Luminvue Medical Ltd is built with the aim for pioneering second-generation intravascular OCT technology. 
 - *2024.12*: Dr. Xu is a postdoctoral fellow now affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html). 
 - *2024.11*: &nbsp;🎉🎉 One paper about first submillimeter visible-light OCT neuroendoscopy is accepted by APL Photonics. 
 - *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life! He is a research assistant affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
@@ -52,7 +53,9 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 1. J. Wang+, **C. Xu+**, S. Zhu, D. Chen, H. Qiu, A. K. N. Lam, C. K. S. Leung, W. Yuan, [A Generic and effective system dispersion compensation method: development and validation in visible-light OCT](https://doi.org/10.3390/photonics10080892). Photonics 10, 892 (2023). (+: equal contribution)
 
 ## Conference Papers
-1.  Z. Fang, **C. Xu**, H. Gao, D. T.-M. Chan, W. Yuan, H. Ren, “[Head-mounted hydraulic needle driver for targeted interventions in neurosurgery](https://ieeexplore.ieee.org/document/10801339/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 2429–2435.
+1. **C. Xu**, C. Shang, T. Zhang, R. Zhang, Y. Wei, Z. Hong, W. Yuan, “[High-performance submillimeter 3D glass printed OCT endoscopy at 800nm](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13334/1333405/High-performance-submillimeter-3D-glass-printed-OCT-endoscopy-at-800nm/10.1117/12.3041749.full)” in Endoscopic Microscopy XX (SPIE, 2025)vol. 13334, pp. 14–17.
+ 
+1. Z. Fang, **C. Xu**, H. Gao, D. T.-M. Chan, W. Yuan, H. Ren, “[Head-mounted hydraulic needle driver for targeted interventions in neurosurgery](https://ieeexplore.ieee.org/document/10801339/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 2429–2435.
 
 1. T. Zhang, S. Yuan, **C. Xu**, P. Liu, H. Ren, W. Yuan, “[Towards electricity-free pneumatic miniature rotation actuator for optical coherence tomography endoscopy](https://ieeexplore.ieee.org/document/10802388/)” in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (2024), pp. 1316–1321.
 
