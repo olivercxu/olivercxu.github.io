@@ -40,6 +40,8 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 # 📝 Publications 
 
 ## Peer Reviewed Journal Publications
+1. S. A. Abbasi, D. Mei, Y. Wei, **C. Xu**, S. M. T. Abbasi, S. Shakil, W. Yuan, [Deconvolution techniques in optical coherence tomography: Advancements, challenges, and future prospects](https://doi.org/10.1002/lpor.202401394). Laser & Photonics Reviews, 2401394 (2025).
+
 1. **C. Xu**, T. Zhang, S. A. Abbasi, P. Liu, B. P. Yan, S.H.C. Ng, W. Yuan, [Ultrathin visible-light OCT endomicroscopy for in vivo ultrahigh-resolution neuroimaging in deep brain](https://doi.org/10.1038/s44172-023-00157-1). APL Photonics 9, 110804 (2024).  
 
 1. **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren, W. Yuan, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
