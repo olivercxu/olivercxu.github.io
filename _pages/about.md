@@ -27,6 +27,9 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 
 # 🔥 News
+- *2025.06*: Our startup Luminvue Medical received HK$100,000 funding from [Ideation Programme](https://www.hkstp.org/en/programmes/ideation) approved by Hong Kong Science & Technology Parks Corporation (HKSTP).   
+- *2025.06*: Our startup Luminvue Medical received HK$100,000 funding from IdeaBooster Fund approved by CUHK Knowledge Transfer Committee (KTC). 
+- *2025.04*: Our startup Luminvue Medical received HK$400,000 funding from  Start-up Support Scheme for Universities (TSSSU) approved by Innovation and Technology Commission (ITC) . 
 - *2024.12*: Dr. Xu is a postdoctoral fellow now affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html). 
 - *2024.11*: &nbsp;🎉🎉 One paper about first submillimeter visible-light OCT neuroendoscopy is accepted by APL Photonics. 
 - *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life! He is a research assistant affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
@@ -39,6 +42,8 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 # 📝 Publications 
 
 ## Peer Reviewed Journal Publications
+1. S. A. Abbasi, D. Mei, Y. Wei, **C. Xu**, S. M. T. Abbasi, S. Shakil, W. Yuan, [Deconvolution techniques in optical coherence tomography: Advancements, challenges, and future prospects](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202401394). Laser & Photonics Reviews, 2401394 (2025).
+
 1. **C. Xu**, T. Zhang, S. A. Abbasi, P. Liu, B. P. Yan, S.H.C. Ng, W. Yuan, [Ultrathin visible-light OCT endomicroscopy for in vivo ultrahigh-resolution neuroimaging in deep brain](https://doi.org/10.1038/s44172-023-00157-1). APL Photonics 9, 110804 (2024).  
 
 1. **C. Xu+**, Z. Fang+, H. Gao, T. Zhang, T. Zhang, P. Liu, H. Ren, W. Yuan, [Patient‐mounted neuro optical coherence tomography for targeted minimally invasive micro‐resolution volumetric imaging in brain in vivo](https://doi.org/10.1002/aisy.202400488). Advanced Intelligent Systems, 2400488 (2024). (+: equal contribution)
