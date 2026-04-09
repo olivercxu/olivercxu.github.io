@@ -27,8 +27,9 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 
 
 # 🔥 News
-- *2025.06*: Our startup Luminvue Medical received HK$100,000 funding from [Ideation Programme](https://www.hkstp.org/en/programmes/ideation) approved by Hong Kong Science & Technology Parks Corporation (HKSTP).   
-- *2025.06*: Our startup Luminvue Medical received HK$100,000 funding from IdeaBooster Fund approved by CUHK Knowledge Transfer Committee (KTC). 
+- *2026.03*: Luminvue Medical received HKD400,000 funding from  Start-up Support Scheme for Universities (TSSSU) approved by Innovation and Technology Commission (ITC) and HKD400,000 funding from private investor. 
+- *2025.06*: Luminvue Medical received HK$100,000 funding from [Ideation Programme](https://www.hkstp.org/en/programmes/ideation) approved by Hong Kong Science & Technology Parks Corporation (HKSTP).   
+- *2025.06*: Luminvue Medical received HK$100,000 funding from IdeaBooster Fund approved by CUHK Knowledge Transfer Committee (KTC). 
 - *2025.04*: Our startup Luminvue Medical received HK$400,000 funding from  Start-up Support Scheme for Universities (TSSSU) approved by Innovation and Technology Commission (ITC) . 
 - *2024.12*: Dr. Xu is a postdoctoral fellow now affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html). 
 - *2024.11*: &nbsp;🎉🎉 One paper about first submillimeter visible-light OCT neuroendoscopy is accepted by APL Photonics. 
@@ -78,21 +79,21 @@ My research interest includes high-resolution OCT, optical endomicroscopy, and p
 1. J. Wang, **C. Xu**, S. Zhu, W. Yuan, “[An optimization method for ultrahigh-resolution vis-OCT imaging](https://doi.org/10.1109/TENCON55691.2022.9977683)” in TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON) (2022), pp. 1–3.
 
 ## Patents
-1. Systems and methods for scalable fabrication of high-performance optical coherence tomography endoscopes using liquid shaping technique. US patent. No. 18/775,087. Second-inventor (supervisor as first inventor).
+1. Systems and methods for scalable fabrication of high-performance optical coherence tomography endoscopes using liquid shaping technique. US patent. No. 18/775,087.
 
-2. 可扩展地制造高性能光学相干断层扫描内窥镜系统和方法. CN202410901042.6. 第二发明人(导师为第一发明人).
+2. 可扩展地制造高性能光学相干断层扫描内窥镜系统和方法. CN202410901042.6.
 
-3. [一种高频颤振扰动光学TDI相机成像的模拟系统](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD201902&filename=CN109632261B&uniplatform=OVERSEA&v=c_kv-5SQsZILUP4tc70g4s-_DeZgScP0Ta71nxtqiCE7C187jVP8QvxhrjD4LBGQ). CN109632261B. 第二发明人(导师为第一发明人).
+3. [一种高频颤振扰动光学TDI相机成像的模拟系统](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD201902&filename=CN109632261B&uniplatform=OVERSEA&v=c_kv-5SQsZILUP4tc70g4s-_DeZgScP0Ta71nxtqiCE7C187jVP8QvxhrjD4LBGQ). CN109632261B.
 
-4. [卫星对动态飞行目标多视角成像联合计算航行高度的方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202203&filename=CN112461204B&uniplatform=OVERSEA&v=hMRiDK8RDb865yeK3zdIzppbqpvsYt0yaxBGN7dvuNvNt-4HnnUifekpLsUo0kTC). CN201910761722.1. 第三发明人.
+4. [卫星对动态飞行目标多视角成像联合计算航行高度的方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202203&filename=CN112461204B&uniplatform=OVERSEA&v=hMRiDK8RDb865yeK3zdIzppbqpvsYt0yaxBGN7dvuNvNt-4HnnUifekpLsUo0kTC). CN201910761722.1.
 
-5. [空间脉管包络分布式三维目标的卫星成像路径规划方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202002&filename=CN109738928B&uniplatform=OVERSEA&v=fR8Mx8pCNY2yq86agVqWHYJMa_Cjb8shUPJ-FIXXRlIHgc4-qE5FF1mkh04DD8If). CN109738928A. 第四发明人.
+5. [空间脉管包络分布式三维目标的卫星成像路径规划方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202002&filename=CN109738928B&uniplatform=OVERSEA&v=fR8Mx8pCNY2yq86agVqWHYJMa_Cjb8shUPJ-FIXXRlIHgc4-qE5FF1mkh04DD8If). CN109738928A.
 
-6. [双线阵TDI空间相机对动态飞机运动特性的分析方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202104&filename=CN108961319B&uniplatform=OVERSEA&v=YHjM-ZTdt5nmOqi9Kifs0cS7buRVKEEC1GEXW6-FHbTp6rYAevRMd2O6D8hETnjG). CN108961319A. 第四发明人.
+6. [双线阵TDI空间相机对动态飞机运动特性的分析方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202104&filename=CN108961319B&uniplatform=OVERSEA&v=YHjM-ZTdt5nmOqi9Kifs0cS7buRVKEEC1GEXW6-FHbTp6rYAevRMd2O6D8hETnjG). CN108961319A.
 
-7. [TDI CCD相机摆扫成像影像几何畸变还原的反变换方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202103&filename=CN108898565B&uniplatform=OVERSEA&v=5n6Zio5iqB8Ih-3LXhEG_Naft26iJW3b_fRMhdJj4wlndP_lDy1A13_fh-ATYz3W). CN108898565A. 第五发明人.
+7. [TDI CCD相机摆扫成像影像几何畸变还原的反变换方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202103&filename=CN108898565B&uniplatform=OVERSEA&v=5n6Zio5iqB8Ih-3LXhEG_Naft26iJW3b_fRMhdJj4wlndP_lDy1A13_fh-ATYz3W). CN108898565A.
 
-8. [基于改进BM3D算法的图像去噪方法及系统](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD201902&filename=CN110060220A&uniplatform=OVERSEA&v=K2XJ6v3gU3eGzRIOoWN1hoPTsLD2KInOovejVwpknY8nRGmdzN-PW1QVM7wRfAaB). CN110060220A. 第六发明人.
+8. [基于改进BM3D算法的图像去噪方法及系统](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD201902&filename=CN110060220A&uniplatform=OVERSEA&v=K2XJ6v3gU3eGzRIOoWN1hoPTsLD2KInOovejVwpknY8nRGmdzN-PW1QVM7wRfAaB). CN110060220A.
 
 
 # 🎖 Honors and Awards
