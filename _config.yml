@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chao (Oliver) Xu"
-description              : "Research scientist at CUHK, B.E.@ZJU | M.S.@UCAS | Ph.D.@CUHK"
+description              : "Senior System Engineer at BOCHU, B.E.@ZJU | M.S.@UCAS | Ph.D.@CUHK"
 repository               : "olivercxu/olivercxu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Chao (Oliver) Xu"
   avatar           : "images/oliver_avatar.png"
   bio              : "Think in the future"
-  location         : "Shain, NT, Hong Kong"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R9tfBVMAAAAJ"
-  email            : "chaoxu@cuhk.edu.hk"
+  email            : "oliverchaoxu@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Chao-Xu-37"
   uri              :
   bitbucket        :

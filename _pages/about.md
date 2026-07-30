@@ -40,6 +40,10 @@ I received my PhD from The Chinese University of Hong Kong, my MSc in Optics fro
 - *2024.01*: &nbsp;🎉🎉 One paper about liquid shaping technique to fabricate miniature high-resolution OCT endoscope is accepted by Communications Engineering.
 - *2023.08*: &nbsp;🎉🎉 One paper about digitally compensating dispersion of OCT system is accepted by Photonics.
 
+
+
+
+# 📝 Publications 
 ## Patents
 1. Optical unit for endoscope, endoscope, imaging system, and associated design technique. US patent. No. 63/912,535 · Filed Nov 6, 2025
    
@@ -60,10 +64,7 @@ I received my PhD from The Chinese University of Hong Kong, my MSc in Optics fro
 9.  [TDI CCD相机摆扫成像影像几何畸变还原的反变换方法](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202103&filename=CN108898565B&uniplatform=OVERSEA&v=5n6Zio5iqB8Ih-3LXhEG_Naft26iJW3b_fRMhdJj4wlndP_lDy1A13_fh-ATYz3W). CN108898565A.
 
 10. [基于改进BM3D算法的图像去噪方法及系统](https://cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD201902&filename=CN110060220A&uniplatform=OVERSEA&v=K2XJ6v3gU3eGzRIOoWN1hoPTsLD2KInOovejVwpknY8nRGmdzN-PW1QVM7wRfAaB). CN110060220A.
-
-
-# 📝 Publications 
-
+11. 
 ## Peer Reviewed Journal Publications
 1.  **徐超**, 钟楷睿, 韩松霖, 尚晨宇, 梅迪, 张廷华, 张睿阳, 邱海霞, 陈德福, 袁武, [内窥光学相干层析成像：前沿进展与临床应用（特邀）](https://www.opticsjournal.net/Articles/OJ92af7e7294083b47/FullText). 中国激光 53, 0907103–18 (2026).
 
@@ -91,8 +92,6 @@ I received my PhD from The Chinese University of Hong Kong, my MSc in Optics fro
 4. **C. Xu**, T. Zhang, P. Liu, W. Yuan, “[Miniature ultrahigh-resolution visible-light OCT endoscopy](https://doi.org/10.1117/12.3000677)” in Endoscopic Microscopy XIX, M. J. Suter, G. J. Tearney, T. D. Wang, Eds. (2024) vol. 12820, p. 27.
 
 5. **C. Xu**, Z. Fang, T. Zhang, H. Gao, T. Zhang, P. Liu, H. Ren, W. Yuan, “[Submillimeter robotic OCT neuroendoscope for deep-brain imaging in vivo](https://doi.org/10.1117/12.3000678)” in Advanced Biomedical and Clinical Diagnostic and Surgical Guidance Systems XXII (2024) vol. 12831, pp. 5–8. 
-
-
 
 
 

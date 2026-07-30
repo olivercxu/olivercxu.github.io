@@ -1,4 +1,4 @@
 - 😍 Welcome to my page!
 - 🌐 This is my personal website [https://olivercxu.github.io/](https://olivercxu.github.io/).
-- 📅 Last major update in Nov 2024. 
-- 📧 chaoxu [at] cuhk [dot] edu [dot] hk
+- 📅 Last major update in July 2026. 
+- 📧 oliverchaoxu [at] gmail [dot] com
