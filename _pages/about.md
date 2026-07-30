@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my page! I am Chao (Oliver) Xu, a Senior System Engineer at BOCHU in Shanghai. I develop industrial [optical coherence tomography](https://en.wikipedia.org/wiki/Optical_coherence_tomography) (OCT) systems for real-time laser-welding depth monitoring. My work on UltraOCT and next-generation OCT platforms spans optical-system architecture, raw-signal processing, self-interference artifact analysis, hardware and component evaluation, algorithm validation, system-level testing, and field troubleshooting.
+Welcome to my page! I am Chao (Oliver) Xu, a Senior System Engineer at BOCHU in Shanghai. I develop industrial [optical coherence tomography](https://en.wikipedia.org/wiki/Optical_coherence_tomography) (OCT) systems for [real-time laser-welding depth monitoring](https://www.ipgphotonics.com/technology/real-time-weld-measurement). My work on UltraOCT and next-generation OCT platforms spans optical-system architecture, raw-signal processing, self-interference artifact analysis, hardware and component evaluation, algorithm validation, system-level testing, and field troubleshooting.
 
 Before joining BOCHU, I was a Postdoctoral Fellow and PhD researcher in Biomedical Engineering at The Chinese University of Hong Kong. My research covered OCT, fiber optics, biomedical imaging, OCT endoscopy, and translational medical-device development, including miniature high-resolution endoscopes for neuroimaging and other preclinical and clinical applications.
 
@@ -25,13 +25,13 @@ I received my PhD from The Chinese University of Hong Kong, my MSc in Optics fro
 
 
 # 🔥 News
-- *2026.05*: One review paper about endoscopic optical coherence tomography was published by Chinese Journal of Lasers. 
+- *2026.05*: &nbsp;🎉🎉 One review paper about endoscopic optical coherence tomography was published by Chinese Journal of Lasers. 
 - *2026.05*：Dr. Xu joined BOCHU as a Senior System Engineer.
 - *2026.03*: Luminvue Medical received HKD400,000 funding from  Start-up Support Scheme for Universities (TSSSU) approved by Innovation and Technology Commission (ITC) and HKD400,000 funding from private investor. 
 - *2025.06*: Luminvue Medical received HK$100,000 funding from [Ideation Programme](https://www.hkstp.org/en/programmes/ideation) approved by Hong Kong Science & Technology Parks Corporation (HKSTP).   
 - *2025.06*: Luminvue Medical received HK$100,000 funding from IdeaBooster Fund approved by CUHK Knowledge Transfer Committee (KTC). 
 - *2025.04*: Our startup Luminvue Medical received HK$400,000 funding from  Start-up Support Scheme for Universities (TSSSU) approved by Innovation and Technology Commission (ITC) . 
-- *2024.12*: Dr. Xu is a postdoctoral fellow now affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html). 
+- *2024.12*: Dr. Xu is a postdoctoral fellow now affiliated with the Advanced Biomedical Imaging Laboratory. 
 - *2024.11*: &nbsp;🎉🎉 One paper about first submillimeter visible-light OCT neuroendoscopy is accepted by APL Photonics. 
 - *2024.10*: &nbsp;🎉🎉 Congratulations to Dr.Xu for starting with his new career life! He is a research assistant affiliated with [the Advanced Biomedical Imaging Laboratory](https://www.bme.cuhk.edu.hk/yuan/index.html).    
 - *2024.09*: &nbsp;🎉🎉 One paper about wearable OCT neuroendoscopy is accepted by Advanced Intelligent Systems. 
