@@ -112,5 +112,5 @@ I received my PhD from The Chinese University of Hong Kong, my MSc in Optics fro
 
 
 # 💬 Invited Talks
-1. "Endoscopic Optical Coherence Tomography and its applications integrated with robotics" at Shanghai Jiaotong University, Jun 10, 2026.
+1. "Endoscopic optical coherence tomography and its applications integrated with robotics" at Shanghai Jiaotong University, Jun 10, 2026.
 
